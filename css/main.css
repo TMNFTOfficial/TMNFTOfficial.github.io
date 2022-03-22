@@ -29,14 +29,21 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
     line-height: 1.4em;
     color: #333;
     text-align: center;
 }
 
+h3 {
+    font-size: 1.8em;
+    line-height: 1.4em;
+    color: #888;
+    text-align: center;
+}
+
 p {
-    font-size: 1em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
     text-align: center;
